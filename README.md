@@ -62,4 +62,7 @@ https://user-images.githubusercontent.com/74552895/137340307-0e576faf-4a73-40db-
   ### I am saying again please use filter if you want to unlike posts only.
 </details>
 
+## Thanks:-
+  - Thank you [Gopal Mandal](https://mbasic.facebook.com/gopalmandalhacker/) for help.
+
 ## Meant for educational purpose only. I am not responsible if Facebook restrict/ban your account.
