@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/74552895/137340307-0e576faf-4a73-40db-
 
   - If you want to delete activity of current running month kindly select **This Month** on [facebook activity log](https://mbasic.facebook.com/me/allactivity/) page.
   - You can clear activity of **any month and any year** but you have to open every month manually. Suppose you want to clear September 2018's activity so just go to [facebook activity log](https://mbasic.facebook.com/me/allactivity/), click 2018, click September and wait. After cleaning September's activity if you want to clean October's activity just click October.
-  - Will improve it timely. If you, especially "PROs", found any mistake or have any suggestion let me know i will correct/apply that.
+  - Will improve it timely. If you found any mistake or have any suggestion let me know i will correct/apply that.
 </details>
 
 <details>
