@@ -33,8 +33,8 @@ https://user-images.githubusercontent.com/74552895/137340307-0e576faf-4a73-40db-
     :information_source: Important information.
   </summary>
 
-  - Facebook have similar parameters for unliking posts, deleting posts, deleting comments, removing friends, deleting unfollowed, deleting searched and many more other activities. So if you want to only **unlike posts** just visit `https://mbasic.facebook.com/allactivity/options/?category_key=all&id=your_facebook_id`, select `Likes and reactions`, install/enable this extension and refresh that page. You can do this same for other filters.
-  - Facebook have some setup user request limits so enjoy until you get this error:-
+  - Facebook have similar parameters for unliking posts, deleting posts, deleting comments, removing friends, deleting unfollowed, deleting searched and many more other activities. So if you want to only **unlike posts** just visit `https://mbasic.facebook.com/allactivity/options/?category_key=all&id=your_facebook_id` (The "your_facebook_id" is your fb id. To get your fb id visit `https://mbasic.facebook.com/me/` and find `<input type="hidden" name="target" value="` in source of that page. You will get something like this `<input type="hidden" name="target" value="1234567890`.), select `Likes and reactions`, install/enable this extension and refresh that page. You can do this same for other filters.
+  - Facebook have setup user request limits so enjoy until you get this error:-
 
     ![restrict](https://user-images.githubusercontent.com/74552895/137329085-54a4c037-bc5d-4374-a838-e014e7f4d8c1.PNG)
   
